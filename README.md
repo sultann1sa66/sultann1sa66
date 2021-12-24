@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SultanAbdulazizov
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate on soon
 - 📫 How to reach me? you'll hear
 
